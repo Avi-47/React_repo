@@ -1,7 +1,12 @@
+import Chai from './chai';
 function App() {
-  return (
-    <h1> Chai aur React | Hey Avimanyu here today I started learning React.js and learnt to install it in my system also vite.js in the system. So lets start learning React.js. Also learnt to create a basic react app using vite.js and react.js.</h1>
+  const username = "chai aur code"
+    return (
+      <>
+      <Chai />
+      <p>I am a paragraph suck my dick then {username} </p>
+      <h1>I am a step father and fuck step mother</h1>
+    </>
   )
 }
-
 export default App
